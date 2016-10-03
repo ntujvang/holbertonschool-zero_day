@@ -1,0 +1,1 @@
+Emacs section was to get us used to manuevering around the terminal in an efficient way.
