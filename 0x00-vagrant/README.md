@@ -1,0 +1,1 @@
+Exercise was to teach us how to open and configure vagrant for use.
